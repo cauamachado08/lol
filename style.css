@@ -6,6 +6,15 @@
     margin: 0px;
     padding: 0ox;
 }
+main{ background-color: rgb(236, 0, 0);
+    color: white;
+    text-align: center;}
+    aside{
+          background-color:rgb(204, 192, 192);
+     padding: 10px;
+     border-radius: 10px;
+     box-shadow: 3px 3px 8px black;
+    }
 
     
 
@@ -42,4 +51,9 @@ h3{
 P#id01{ color: rgb(27, 27, 27);
     font-size: 5PX;
 }
+div.clase1{
+
+}
+
+
 
