@@ -6,21 +6,21 @@
     margin: 0px;
     padding: 0ox;
 }
-main{ background-color: rgb(236, 0, 0);
+main{ background-color: #011826;
     color: white;
     text-align: center;}
     aside{
-          background-color:rgb(204, 192, 192);
+          background-color:#03258C);
      padding: 10px;
      border-radius: 10px;
-     box-shadow: 3px 3px 8px black;
+     box-shadow: 8px 3px 8px 8px red;
     }
 
     
 
 
 body{
-    background-color: black;
+    background-color:#011826
 }
 h1{
     text-align: center;
