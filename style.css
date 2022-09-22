@@ -1,0 +1,28 @@
+@charset "UTF-";
+
+@import url('https://fonts.googleapis.com/css2? family= Nabla & display=swap');
+
+
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: red;
+   font-family: monospace;
+   font-size: 50px;
+    
+}
+h2{
+color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 50px;
+}
+p{
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+a{
+
+}
